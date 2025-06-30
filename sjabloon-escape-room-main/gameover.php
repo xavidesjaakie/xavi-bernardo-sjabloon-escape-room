@@ -15,6 +15,6 @@
 }</style>
 <body>
 <h1>😢 Helaas, je hebt verloren!</h1>
-<a href="index.php">Probeer opnieuw</a>
+<a class="button" href="reset.php">Opnieuw spelen</a>
 </body>
 </html>

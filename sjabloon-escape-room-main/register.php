@@ -27,6 +27,28 @@ $hashedWachtwoord = $wachtwoord; // sla letterlijk op wat de gebruiker intypt
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ?>
 
 <!DOCTYPE html>

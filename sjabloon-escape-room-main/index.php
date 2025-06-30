@@ -116,7 +116,9 @@ $topScores = $stmt->fetchAll(PDO::FETCH_ASSOC);
   </div>
 
   <h1>Welkom bij de Escape Room</h1>
-  <p>Probeer minimaal 2 kamers op te lossen in 60 seconden!</p>
+  <p>Probeer minimaal 2 kamers op te lossen in 60 seconden! <br>
+probeer zo snel mogelijk te beantwoorden. <br>
+klik start om te beginnen.</p>
 
   <form action="game.php" method="post">
     <button type="submit">Start de Escape Room</button>
